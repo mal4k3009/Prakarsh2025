@@ -148,7 +148,7 @@ const Card = () => {
       name: "Malak",
       image: "",
       github: "https://github.com/janesmith",
-      catogeory : "error 420 ......"
+      catogeory : "Frontend Developer"
 
     },
     // Add more profiles here
